@@ -18,7 +18,7 @@ Este es un proyecto de un sitio web sobre seguridad en linea, creado por: Ivan D
 
 ## Ver el Sitio en Vivo
 
-El sitio está disponible en GitHub Pages en la siguiente URL: [https://byivan23.github.io/my-security-website](https://byivan23.github.io/my-security-website)
+El sitio está disponible en GitHub Pages en la siguiente URL: [https://byivan23.github.io/sitioweb-seguridad](https://byivan23.github.io/sitioweb-seguridad)
 
 ## Cómo Contribuir
 
